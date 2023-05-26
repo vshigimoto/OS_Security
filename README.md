@@ -93,6 +93,10 @@ Below is an example of the tool's usage and output:
  
  ![Image alt](https://github.com/vshigimoto/OS_Security/blob/main/2023-05-26%2023.40.27.jpg)
  
+ <h3> Video Usade </h3>
+ 
+ https://youtu.be/5MIHRLaI9Jk
+ 
 <h2>5. Conclusion</h2>
 CS-2124 Gobuster Scannerl provides a straightforward and efficient solution for conducting port scans and web directory scans on a target host. By identifying open ports and accessible directories, the tool aids in assessing network security. It is important to note that the tool's usage should strictly adhere to legal and ethical guidelines, ensuring that scans are performed only on systems for which the user has proper authorization.
 
